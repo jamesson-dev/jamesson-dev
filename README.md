@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamesson-dev
+- 👋 Hi, I’m Jamesson Ferreira
 - 👀 I’m interested in ... Data & analitics
 - 🌱 I’m currently learning ...  python and IA Generativa
 - 💞️ I’m looking to collaborate on ...  front and back-end
